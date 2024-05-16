@@ -1,0 +1,2 @@
+{"title":"Miserable World","category":"Novel","press":"Press-G","publishYear":2003,"author":"Immortal","price":200.1,"stock":100}
+{"title":"How steel is made","category":"Nature","press":"Press-D","publishYear":2013,"author":"Yuuku","price":164.09,"stock":52}
